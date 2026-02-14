@@ -1,0 +1,8 @@
+{
+  "name": "GM AI BOT Dashboard",
+  "description": "A high-fidelity Telegram Bot controller and simulator powered by Gemini AI, capable of understanding images, voice, and multiple languages.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
